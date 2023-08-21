@@ -1479,6 +1479,15 @@ is:
     other: Annað
     posting_defaults: Sjálfgefin gildi við gerð færslna
     public_timelines: Opinberar tímalínur
+  privacy:
+    hint_html: "<strong>Sérsníddu hvernig þú vilt að finna megi notandasnið þitt og færslur.</strong> Ýmsir eiginleikar í Mastodon geta hjálpað þér að ná til breiðari áheyrendahóps, séu þeir virkjaðir. Taktu þér tíma til að yfirfara þessar stillingar svo að þær henti þér."
+    privacy: Gagnaleynd
+    privacy_hint_html: Stýrðu því hve miklar upplýsingar þú birtir sem gætu gagnast öðrum. Fólk uppgötvar áhugaverða notendur og sniðug forrit með því að skoða hvað annað fólk fylgist með og hvaða forrit það notar til að birta færslur, en hinsvegar er þér frjálst að halda þessu leyndu.
+    reach: Útbreiðsla
+    reach_hint_html: Stýrðu hvort annað fólk geti fundið þig og fylgst með þér. Viltu að færslur frá þér birtist á Kanna-skjánum? Viltu að annað fólk sjái þigþar sem mælt er með hverjum hægt sé að fylgjast með? Viltu samþykkja alla nýja fylgjendur sjálfkrafa, eða viltu stýra því fyrir hvern og einn?
+    search: Leit
+    search_hint_html: Stýrðu hvernig hægt sé að finna þig. Viltu að fólk finni þig út frá því sem þú hefur birt opinberlega? Viltu að fólk utan Mastodon geti fundið notandasniðið þitt þegar það leitar á vefnum? Athugaðu að ekki er hægt að tryggja algjöra útilokun frá öllum leitarvélum þegar um opinberlega birtar upplýsingar er að ræða.
+    title: Gagnaleynd og útbreiðsla
   privacy_policy:
     title: Persónuverndarstefna
   reactions:

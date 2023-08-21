@@ -1475,6 +1475,15 @@ fo:
     other: Annað
     posting_defaults: Postingarstillingar
     public_timelines: Almennar tíðarlinjur
+  privacy:
+    hint_html: "<strong>Tillaga hvussu tú vilt hava tín vanga og tínar postar at blíva funnar</strong> Eitt úrval av tættum í Mastodon kunnu hjálpa tær at røkka einum størri skara, tá teir eru settir til. Brúka eina løtu at eftirhyggja hesar stillingar fyri at fáa vissu um at tær eru hóskandi fyri teg."
+    privacy: Privatlív
+    privacy_hint_html: Stýr hvussu nógv tú vil avdúka til gagns fyri onnur. Fólk varnast áhugaverdar vangar og kular appir tá tey síggja, hvørji fólk fylgja teimum og hvørjar appir, tey brúka at posta við, men tað kann vera, at tú heldur vilt halda tað fjalt.
+    reach: Útbreiðsla
+    reach_hint_html: Stýr um onnur skulu kunna finna teg og fylgja tær. Vilt tú hava, at postar tínir síggjast á Rannsaka-síðuni? Vilt tú hava at onnur síggja teg í viðmælum um hvørji tey skulu fylgja? Vilt tú góðkenna allar nýggjar fylgjarar sjálvvirkandi ella vilt tú stýra nágreiniliga hvør kann fylgja tær?
+    search: Leita
+    search_hint_html: Stýr, hvussu tú verður funnin. Vilt tú hava at fólk finna teg við tí, sum tú hevur postað fyri almenninginum? Vilt tú hava, at fólk uttan fyri Mastodon finna vangan hjá tær tá tey leita á netinum? Gev gætur, at vissa fyri fullkomnari verja móti øllum leitimaskinum ikki kann gevast fyri almennar upplýsingar.
+    title: Privatlív og skotmál
   privacy_policy:
     title: Privatlívspolitikkur
   reactions:

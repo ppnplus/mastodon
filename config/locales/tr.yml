@@ -1475,6 +1475,15 @@ tr:
     other: Diğer
     posting_defaults: Gönderi varsayılanları
     public_timelines: Genel zaman çizelgeleri
+  privacy:
+    hint_html: "<strong>Profilinizin ve gönderilerinizin nasıl bulunmasını istediğinizi yapılandırın.</strong> Mastodon'daki çeşitli özellik etkinleştirildiklerinde çok daha geniş bir izleyici kitlesine ulaşmanıza yardımcı olabilir. Durumunuza uyup uymadığını anlamak için bu ayarlara bir göz atın."
+    privacy: Gizlilik
+    privacy_hint_html: Başkalarına ne kadar bilgi göstermek istediğinizi denetleyin. İnsanlar ilginç profilleri ve havalı uygulamaları diğer kişilerin takiplerine ve gönderileri paylaştıkları uygulamalara bakarak keşfederler, ama belki de gizli tutmak isteyebilirsiniz.
+    reach: Erişim
+    reach_hint_html: Yeni insanlar tarafından ne kadar keşfedilmek ve takip edilmek istediğinizi denetleyin. Gönderilerinizin Keşfet ekranında görüntülenmesini istiyor musunuz? Başkalarının takip önerileri listesinde görünmek istiyor musunuz? Tüm yeni takipçileri otomatik olarak kabul etmek mi yoksa her bir istek üzerinden ayrıntılı denetim mi istiyorsunuz?
+    search: Ara
+    search_hint_html: Nasıl bulunmak istediğinizi denetleyin. Herkese açık gönderileriniz aracılığıyla daha fazla insanın sizi bulmasını istiyor musunuz? Mastodon dışındaki kişilerin webte arama yaptığında profilinizi bulmasını istiyor musunuz? Tüm arama motorlarından tamamen çıkmanın herkese açık bilgiler için garanti olmadığını lütfen unutmayın.
+    title: Gizlilik ve erişim
   privacy_policy:
     title: Gizlilik Politikası
   reactions:

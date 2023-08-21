@@ -1492,6 +1492,9 @@ sl:
     other: Ostalo
     posting_defaults: Privzete nastavitev objavljanja
     public_timelines: Javne časovnice
+  privacy:
+    privacy: Zasebnost
+    search: Iskanje
   privacy_policy:
     title: Pravilnik o zasebnosti
   reactions:

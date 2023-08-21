@@ -1475,6 +1475,15 @@ fi:
     other: Muut
     posting_defaults: Viestien oletusasetukset
     public_timelines: Julkiset aikajanat
+  privacy:
+    hint_html: "<strong>Määritä miten haluat profiilisi ja julkaisujesi löytyvän.</strong> Mastodonissa on monia ominaisuuksia, joiden käyttöönotto voi auttaa sinua saavuttamaan laajemman yleisön. Käytä hetki tarkistaaksesi, soveltuvatko nämä asetukset sinun käyttöösi."
+    privacy: Yksityisyys
+    privacy_hint_html: Määritä miten paljon muita avustavia tietoja haluat paljastaa. Käyttäjät löytävät kiinnostavia profiileita ja hienoja sovelluksia selaamalla muiden surantoja ja näkemällä millä sovelluksilla he julkaisevat. Saatat kuitenkin haluata piilottaa nämä tiedot.
+    reach: Saavutettavuus
+    reach_hint_html: Päätä, haluatko tulla uusien käyttäjien löytämäksi ja seuraamaksi. Haluatko viestiesi näkyvän Selaa-sivulla? Haluatko käyttäjien näkevän sinut heidän seuraussuosituksissaan? Haluatko hyväksyä uudet seuraajat automaattisesti vai haluatko hyväksyä jokaisen erikseen?
+    search: Haku
+    search_hint_html: Määrittele miten haluat tulla löydetyksi. Haluatko, että ihmiset löytävät sinut julkisten postaustesi perusteella? Haluatko, että ihmiset Mastodonin ulkopuolella löytävät profiilisi tehdessään hakuja verkossa? Huomioithan, että täydellinen sulkemista kaikista hakukoneista ei voida taata julkiselle informaatiolle.
+    title: Yksityisyys ja näkyvyys
   privacy_policy:
     title: Tietosuojakäytäntö
   reactions:

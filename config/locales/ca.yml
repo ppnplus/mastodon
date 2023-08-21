@@ -1475,6 +1475,15 @@ ca:
     other: Altre
     posting_defaults: Valors per defecte de publicació
     public_timelines: Línies de temps públiques
+  privacy:
+    hint_html: "<strong>Personalitza com vols que siguin trobats el teu perfil i els teus tuts.</strong> Una varietat de característiques de Mastodon et poden ajudar a arribar a una major audiència quan les actives. Dedica una estona a revisar aquests ajustaments per assegurar que son els que necessites."
+    privacy: Privacitat
+    privacy_hint_html: Controla quant vols revelar en benefici d'altres. La gent descobreix perfils interessants i aplicacions genials tot navegant per els usuaris seguits d'altres persones i veient des de quines aplicacions publiquen, però pots preferir mantenir-ho amagat.
+    reach: Arribar a
+    reach_hint_html: Controla si vols ser descobert i seguit per gent nova. Vols que els teus tuts apareguin en la pantalla de Explora? Vols que altres persones et vegin en les seves recomanacions de seguiment? Vols acceptar automàticament als nous seguidors o tenir un control granular sobre cadascun d'ells?
+    search: Cerca
+    search_hint_html: Controla com vols ser trobat. Vols que la gent et trobi per el que publiques? Vols que la gent fora de Mastodon trobi el teu perfil quan cerquin la web? Has de tenir en compte que no es pot garantir la exclusió total de tots els motors de cerca per a la informació pública.
+    title: Privacitat i arribar
   privacy_policy:
     title: Política de Privacitat
   reactions:

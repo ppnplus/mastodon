@@ -1475,6 +1475,15 @@ es-MX:
     other: Otros
     posting_defaults: Configuración por defecto de publicaciones
     public_timelines: Líneas de tiempo públicas
+  privacy:
+    hint_html: "<strong>Personaliza el descubrimiento de tu perfil y tus publicaciones.</strong> En Mastodon tienes distintas características que te ayudarán a alcanzar una mayor audiencia si las activas. Tómate un momento para revisar estas configuraciones y asegurarte de que cumplen tus necesidades."
+    privacy: Privacidad
+    privacy_hint_html: Controla cuánto deseas revelar a los demás. Las personas descubren perfiles y aplicaciones interesantes navegando por los seguidores de otras personas y viendo desde qué aplicaciones publican, pero puede que prefieras mantenerlo oculto.
+    reach: Alcance
+    reach_hint_html: Controla si quieres ser descubierto y seguido por nuevas personas. ¿Quieres que tus publicaciones aparezcan en la sección de Explorar? ¿Quieres que tu cuenta se recomiende a otras personas? ¿Quieres aceptar automáticamente a todos los nuevos seguidores o tener control sobre cada uno de ellos?
+    search: Búsqueda
+    search_hint_html: Controla cómo quieres que te encuentren. ¿Quieres que otras personas te encuentren por lo que has publicado públicamente? ¿Quieres que las personas de fuera de Mastodon encuentren tu perfil al buscar en la web? Por favor, ten en cuenta que la exclusión total de todos los motores de búsqueda no puede ser garantizada para información pública.
+    title: Privacidad y alcance
   privacy_policy:
     title: Política de Privacidad
   reactions:

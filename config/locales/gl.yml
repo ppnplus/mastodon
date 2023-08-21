@@ -1475,6 +1475,15 @@ gl:
     other: Outro
     posting_defaults: Valores por omisión
     public_timelines: Cronoloxías públicas
+  privacy:
+    hint_html: "<strong>Personaliza o xeito no que queres que se atope o teu perfil e publicacións.</strong> Mastodon ten variedade de ferramentas para axudarche a acadar unha audiencia maior. Dedica un minuto a revisalas e confirma que se axustan ao teu caso persoal."
+    privacy: Privacidade
+    privacy_hint_html: Controla canto queres mostrar ás demais persoas. As usuarias descubren perfís interesantes e apps estupendas mirando a quen seguen outras persoas e vendo as apps desde as que publican, pero ti poderías querer non mostralas.
+    reach: Alcance
+    reach_hint_html: Indica o xeito en que queres que outras persoas poidan atoparte e seguirte. Queres aparecer na pantalla Descubrir? Queres que outras persoas poidan incluirte entre as súas recomendacións de seguimento? Queres aceptar os seguimentos automáticamente, ou ter control individual sobre as solicitudes?
+    search: Buscar
+    search_hint_html: Xestiona o xeito en que poden atoparte. Queres que te atopen a través do que publicaches de xeito público? Queres que as persoas de fóra de Mastodon atopen o teu perfil cando fan buscas na web? Por favor, ten en conta que a exclusión total de todos os buscadores non se pode garantir para a información pública.
+    title: Privacidade e alcance
   privacy_policy:
     title: Política de Privacidade
   reactions:

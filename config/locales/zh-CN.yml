@@ -1449,6 +1449,10 @@ zh-CN:
     other: 其他
     posting_defaults: 发布默认值
     public_timelines: 公共时间轴
+  privacy:
+    privacy: 隐私
+    reach: A. 范围
+    search: 搜索
   privacy_policy:
     title: 隐私政策
   reactions:

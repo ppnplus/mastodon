@@ -1163,7 +1163,7 @@ da:
       date: Dato
       download: Download dit arkiv
       hint_html: Du kan anmode om et arkiv af dine <strong>trut og oplagt medie</strong>. Den eksporterede data vil være i ActivityPub formattet, læseligt af enhvert kompatibelt program. Du kan anmode om et arkiv én gang om ugen.
-      in_progress: Kompilerer dit arkiv...
+      in_progress: Forbereder dit arkiv...
       request: Anmod om dit arkiv
       size: Størrelse
     blocks: Du blokerer
@@ -1475,6 +1475,15 @@ da:
     other: Andet
     posting_defaults: Standarder for indlæg
     public_timelines: Offentlige tidslinjer
+  privacy:
+    hint_html: "<strong>Tilpas måden, hvorpå din profil og dine indlæg kan findes.</strong> Når aktiveret, kan en række Mastodon-funktioner hjælpe dig med at nå ud til et bredere publikum. Tjek indstillinger for at sikre, at de matcher dit brugsscenarie."
+    privacy: Fortrolighed
+    privacy_hint_html: Styr, hvor meget der ønskes synliggjort til gavn for andre. Folk finder interessante profiler og apps ved at tjekke andres følgere ud, samt se hvilke apps de sender fra, men dine præferencer ønskes muligvis ikke synliggjort.
+    reach: Udbredelse
+    reach_hint_html: Styr, hvorvidt du vil opdages og følges af nye personer. Skal dine indlæg f.eks. vises på siden Udforsk, og/eller skal andre se dig i deres følg-anbefalinger? Ønskes nye følgere f.eks. accepteret automatisk, eller vil du kunne detailstyre hver enkelt?
+    search: Søg
+    search_hint_html: Styr, hvordan du vil findes. Skal folk finde dig via det, du offentligt har postet om? Skal folk udenfor Mastodon kunne finde din profil ved søgning på nettet? Bemærk, at total udelukkelse af offentlige information fra samtlig søgemaskiner ikke kan garanteres.
+    title: Fortrolighed og udbredelse
   privacy_policy:
     title: Privatlivspolitik
   reactions:
@@ -1714,7 +1723,7 @@ da:
       subject: Dit arkiv er klar til download
       title: Arkiv download
     suspicious_sign_in:
-      change_password: skift din adgangskode
+      change_password: ændrer din adgangskode
       details: 'Her er nogle detaljer om login-forsøget:'
       explanation: Indlogning på din konto fra en ny IP-adresse detekteret.
       further_actions_html: Hvis dette ikke var dig, anbefaler vi, at du %{action} med det samme og aktiverer to-faktor godkendelse for at holde din konto sikker.
